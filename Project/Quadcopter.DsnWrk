@@ -1,0 +1,8 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=..\Quadcopter Integrated\Quadcopter  Integrated.LibPkg
+[Project2]
+ProjectPath=..\Flight Control\Flight Control.PrjPCB
+[Project3]
+ProjectPath=..\Radio Telecontrol\Radio Telecontrol.PrjPCB
